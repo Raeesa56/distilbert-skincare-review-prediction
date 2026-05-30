@@ -82,6 +82,16 @@ Python libraries used:
 3. Load the Sephora dataset.
 4. Execute cells sequentially.
 5. Review generated evaluation metrics and figures.
+   ## Application Demo
+
+A lightweight Streamlit demonstration interface is included in `app.py`.
+
+The demo allows a user to enter a skincare review and select skin-type metadata. It illustrates how a recommendation prediction system could be presented as an AI application.
+
+To run locally:
+
+```bash
+streamlit run app.py
 
 ---
 
